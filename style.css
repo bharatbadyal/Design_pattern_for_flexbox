@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+div {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  max-width: 200px;
+  /* height: 100vw;  */
+  border: 1px solid black;
+  font-size: 12px;
+  font-weight: 600;
+}
